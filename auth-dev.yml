@@ -7,13 +7,13 @@ spring:
         default-property-inclusion: non_null
     redis:
         database: 1
-        host: ${REDIS_HOST:127.0.0.1}
-        port: ${REDIS_PORT:6379}
+        host: 127.0.0.1
+        port: 6379
         pool:
             max-active: 20
     datasource:
       name: test
-      url: jdbc:mysql://localhost:3306}/ag_auth?useUnicode=true&characterEncoding=UTF8
+      url: jdbc:mysql://localhost:3306/ag_auth?useUnicode=true&characterEncoding=UTF8
       username: root
       password: 123456
       # 使用druid数据源
