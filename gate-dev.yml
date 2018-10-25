@@ -74,6 +74,8 @@ zuul:
         - user
         - origin
         - url
+    routes:
+      stripPrefix: false
 
 ribbon:
   eureka:
