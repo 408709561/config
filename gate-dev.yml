@@ -74,10 +74,6 @@ zuul:
         - user
         - origin
         - url
-    routes:
-      estate:
-        path: api/estate
-        serviceId: estate
 
 ribbon:
   eureka:
