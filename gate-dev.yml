@@ -74,10 +74,10 @@ zuul:
         - user
         - origin
         - url
-    routes:
-      estate:
-        path: /estate/**
-        serviceId: estate
+  routes:
+    estate:
+      path: /estate/**
+      serviceId: estate
 
 ribbon:
   eureka:
