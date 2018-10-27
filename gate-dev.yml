@@ -75,7 +75,9 @@ zuul:
         - origin
         - url
     routes:
-      stripPrefix: false
+      estate:
+        path: /estate/**
+        serviceId: estate
 
 ribbon:
   eureka:
