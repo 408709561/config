@@ -1,6 +1,6 @@
 spring:
     application:
-        name: ace-auth
+        name: auth
     jackson:
         date-format: yyyy-MM-dd HH:mm:ss
         time-zone: GMT+8
@@ -99,7 +99,7 @@ jwt:
   user-service: admin
 
 client:
-  id: ace-auth
+  id: auth
   secret: 123456
   token-header: client-token
   expire: 3600
@@ -113,7 +113,7 @@ redis:
 swagger:
     enabled: true
     base-package: com.github.wxiaoqi.security.auth
-    title: ace-auth
+    title: auth
     version: 1.0.0.SNAPSHOT
     description: 鉴权服务
     contact:

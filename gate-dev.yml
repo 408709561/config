@@ -1,6 +1,6 @@
 spring:
     application:
-        name: ace-gate
+        name: gate
     thymeleaf:
         mode: LEGACYHTML5
         cache: false
@@ -38,7 +38,7 @@ gate:
     startWith: /static,/auth/oauth/,/admin/v2/api-docs,/dict/v2/api-docs,/auth/v2/api-docs,/dict/dictValue/type/comm_sex
 
 auth:
-  serviceId: ace-auth
+  serviceId: auth
   user:
     token-header: Authorization
     limit-expire: 1440 #1天
