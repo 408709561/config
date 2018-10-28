@@ -74,11 +74,6 @@ zuul:
         - user
         - origin
         - url
-  routes:
-    estate:
-      path: /estate/**
-      serviceId: estate
-      url: http://localhost:8761/estate
 
 ribbon:
   eureka:
