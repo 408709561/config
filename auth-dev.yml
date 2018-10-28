@@ -96,7 +96,7 @@ jwt:
   token-header: Authorization
   expire: 3600
   rsa-secret: xx1WET12^%3^(WE45
-  user-service: ace-admin
+  user-service: admin
 
 client:
   id: ace-auth
