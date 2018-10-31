@@ -19,8 +19,8 @@
       <file leaf-file-name="admin-dev.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+            <state relative-caret-position="1695">
+              <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -28,17 +28,8 @@
       <file leaf-file-name="auth-dev.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-528">
+            <state relative-caret-position="855">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-dev_v2.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auth-dev_v2.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -46,16 +37,9 @@
       <file leaf-file-name="gate-dev.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gate-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="642">
+              <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gate-dev_v2.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gate-dev_v2.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1398" />
           </provider>
         </entry>
       </file>
@@ -137,15 +121,18 @@
       <updated>1529850594644</updated>
       <workItem from="1529850596368" duration="3809000" />
       <workItem from="1530371593088" duration="2615000" />
-      <workItem from="1540716732904" duration="386000" />
+      <workItem from="1540716732904" duration="1599000" />
+      <workItem from="1540731785805" duration="598000" />
+      <workItem from="1540736554457" duration="3000" />
+      <workItem from="1540795612695" duration="1017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6810000" />
+    <option name="totallyTimeSpent" value="9641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -173,6 +160,69 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gate-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
@@ -218,34 +268,24 @@
     <entry file="file://$PROJECT_DIR$/Update gate-dev.yml" />
     <entry file="file://$PROJECT_DIR$/admin-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+        <state relative-caret-position="1695">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
+        <state relative-caret-position="855">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth-dev_v2.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gate-dev_v2.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1398" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-dev_v2.yml" />
+    <entry file="file://$PROJECT_DIR$/gate-dev_v2.yml" />
     <entry file="file://$PROJECT_DIR$/gate-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        <state relative-caret-position="642">
+          <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
         </state>
       </provider>
     </entry>
