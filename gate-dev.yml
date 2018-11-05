@@ -62,6 +62,9 @@ zuul:
   ignored-services: "*"
   sensitive-headers:
   prefix: /api #为zuul设置一个公共的前缀
+  host:
+    connect-timeout-millis: 10000
+    socket-timeout-millis: 60000
   ratelimit: # 网关限流
     key-prefix: gate_rate
     enabled: true
@@ -78,8 +81,8 @@ zuul:
 ribbon:
   eureka:
     enabled: true
-  ReadTimeout: 120000
-  ConnectTimeout: 120000
+  ReadTimeout: 60000
+  ConnectTimeout: 60000
   MaxAutoRetries: 0
   MaxAutoRetriesNextServer: 1
   OkToRetryOnAllOperations: false
@@ -99,7 +102,7 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 50000
+            timeoutInMilliseconds: 60000
 #          strategy: SEMAPHORE
 
 eureka:
