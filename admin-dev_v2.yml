@@ -49,7 +49,7 @@ spring:
         percentage: 1
 mybatis:
     mapper-locations: "classpath*:mapper/*.xml"
-
+    type-aliases-package: com.github.wxiaoqi.security.admin.entity
 server:
     port: 8762
 
@@ -60,7 +60,7 @@ eureka:
 
         # docker 部署开启,记得将IP修改为部署所在服务器的外网IP
         prefer-ip-address: true
-        # ip-address: 127.0.0.1
+        ip-address: 127.0.0.1
     client:
         serviceUrl:
 #            defaultZone: http://localhost:8761/eureka/
